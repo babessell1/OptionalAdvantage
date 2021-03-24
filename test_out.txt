@@ -1,0 +1,7 @@
+('MSFT',)
+
+
+MSFT
+Sum of Deviation-Squared: 0.010558075125710964
+Variance: 0.0005865597292061647
+Volatility: 0.02421899521462781
